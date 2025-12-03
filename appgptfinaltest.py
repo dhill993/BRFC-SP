@@ -73,7 +73,8 @@ st.markdown(f"""
 
 # Constants
 LEAGUES = {
-    "League Two 2025/26": {"competition_id": 5, "season_id": 318}
+    "League Two 2025/26": {"competition_id": 5, "season_id": 318
+    "League One 2025/26": {"competition_id": 4, "season_id": 318}
 }
 
 SB_USERNAME = "dhillon.gil@bristolrovers.co.uk"
